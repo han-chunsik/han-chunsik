@@ -15,4 +15,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:       
-          CREDLY_USER: b1bddeaf
+          CREDLY_USER: username.b1bddeaf
