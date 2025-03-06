@@ -1,7 +1,3 @@
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/han-chunsik?pet-id=1" width="1000" height="120"/>
-</a>
-
 ```
  _   _                       _                         _  _    
 | | | |                     | |                       (_)| |   
@@ -11,6 +7,14 @@
 \_| |_/ \__,_||_| |_|  \___||_| |_| \__,_||_| |_||___/|_||_|\_\
 
 ```
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=han-chunsik&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/han-chunsik"
+  width="600"
+  height="300"
+/>
+</a>
 
 ### Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=han-chunsik&show_icons=true&bg=ffffff)
